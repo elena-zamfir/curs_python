@@ -4,3 +4,6 @@ Imperial
 LSE
 RHUL
 QMUL
+University of the Arts
+Central Saint Martins
+City University of London
