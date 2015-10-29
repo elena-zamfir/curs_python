@@ -1,0 +1,6 @@
+UCL
+KCL
+Imperial
+LSE
+RHUL
+QMUL
